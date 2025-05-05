@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá! Eu sou o Leonardo Dantas 👋
 
-<!--
-**leodantasmarques/leodantasmarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Full Stack com experiência em **.NET**, **React** e **SQL**. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Aqui estão alguns dos meus projetos:
 
-Here are some ideas to get you started:
+- 💻 **Controle de Gastos Pessoais**: Um sistema para gerenciar suas finanças, utilizando .NET para a API e React para o front-end.
+- 🍴 **Nourish Me**: Uma aplicação para recomendação de alimentos saudáveis, desenvolvida com Spring Boot e React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Tecnologias que eu uso:
+- Backend: .NET, Java Spring Boot
+- Frontend: React, Next.js, React Native
+- Banco de Dados: SQL Server, MySQL
+
+## 📫 Como me encontrar:
+- LinkedIn: [linkedin.com/in/leodantasmarques](https://www.linkedin.com/in/leodantasmarques)
+- Email: leodmarques05@gmail.com
